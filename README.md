@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avadhoot Dhumal</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Frontend devlopment**
 
