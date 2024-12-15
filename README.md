@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Avadhoot Dhumal</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-- 🌱 I’m currently learning ****
+- 🌱 
 
 - 💬 Ask me about **Frontend devlopment**
 
 - 📫 How to reach me **avadhoot.dhumal9@gmail.com**
+
+- My Resume is https://avadhootresume.tiiny.site
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
