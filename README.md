@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avadhoot Dhumal</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-- 🌱 
+- 🌱 I am currently learning Data Analytics
 
-- 💬 Ask me about **Frontend devlopment**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **avadhoot.dhumal9@gmail.com**
 
